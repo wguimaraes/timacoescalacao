@@ -1,16 +1,12 @@
-# timasso_escalacao
+# Timaço Escalação
 
-A new Flutter project.
+## Summary
 
-## Getting Started
+This is a simple app project that I am developing to learn about GetX on Flutter. My idea is to combine utility with leisure by making an app to manage informal group competitions of sand volleyball.
 
-This project is a starting point for a Flutter application.
+## This is an ongoing project
 
-A few resources to get you started if this is your first Flutter project:
+This project is in its beginning stages, so many functionalities and screens may not be complete or may only have a scaffold. I haven't decided yet if I will make the app store data locally or consume data from an API.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About this project
+The main goal is to manage games, add/edit players, add/edit games, sort teams, and make simple brackets sorted randomly in the first step. In the next steps, prioritize teams that have not confronted each other yet. After that, organize teams that have won the most to confront each other and teams that have lost more to confront each other.
